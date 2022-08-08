@@ -3,3 +3,6 @@ dist/
 
 # For testing:
 config.hcl
+
+.vscode/
+.DS_Store
